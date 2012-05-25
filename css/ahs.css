@@ -1,0 +1,7 @@
+.panel-elem .panel-control {margin:10px 0;}
+.panel-elem .thumbnails {margin:20px 0;}
+.panel-elem .thumbnail {text-align:center; cursor: pointer;}
+.panel-elem .thumbnail:hover .thumbnail-pic, .panel-elem .thumbnail.active .thumbnail-pic {background-position:0 -128px;}
+
+.thumbnail-pic {height:128px; width:128px; display:inline-block;}
+.thumbnail-pic.lightbulb {background:url(../img/lightbulb.png) 0 0;}
